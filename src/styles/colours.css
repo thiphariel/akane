@@ -1,0 +1,15 @@
+/* Backgrounds */
+.bg-dark {
+    background-color: var(--dark);
+}
+.bg-white {
+    background-color: var(--white);
+}
+
+/* Text colours */
+.text-dark {
+    color: var(--dark);
+}
+.text-white {
+    color: var(--white);
+}

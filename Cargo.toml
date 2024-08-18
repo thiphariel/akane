@@ -1,0 +1,22 @@
+[package]
+name = "akane"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+actix-files = "0.6.6"
+actix-identity = "0.7.1"
+actix-session = { version = "0.10.0", features = ["cookie-session"] }
+actix-web = "4.9.0"
+bcrypt = "0.15.1"
+chrono = { version = "0.4.38", features = ["serde"] }
+diesel = { version = "2.2.2", features = ["sqlite", "r2d2", "chrono", "uuid"] }
+diesel_migrations = { version = "2.2.0", features = ["sqlite"] }
+dotenvy = "0.15.7"
+env_logger = "0.11.5"
+lightningcss = "1.0.0-alpha.58"
+maud = { version = "0.26.0", features = ["actix-web"] }
+r2d2 = "0.8.10"
+serde = { version = "1.0.208", features = ["derive"] }
+uuid = { version = "1.10.0", features = ["v4"] }
+thiserror = "1.0.63"

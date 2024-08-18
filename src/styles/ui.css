@@ -1,0 +1,29 @@
+/* Ui */
+.list-none {
+    list-style-type: none;
+}
+
+.shadow {
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.border-radius-xs {
+    border-radius: 0.25rem;
+}
+
+.border-radius-m {
+    border-radius: 0.5rem;
+}
+
+.border-radius-l {
+    border-radius: 0.75rem;
+}
+
+.border-radius-xl {
+    border-radius: 1rem;
+}

@@ -1,0 +1,12 @@
+@import url('variables.css');
+@import url('resets.css');
+@import url('placements.css');
+@import url('sizes.css');
+@import url('colours.css');
+@import url('ui.css');
+@import url('others.css');
+
+/**
+Sizes : 4units = 1rem
+ie. p-4 = padding: 1rem
+**/

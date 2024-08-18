@@ -1,0 +1,33 @@
+/* Placements */
+.absolute {
+    position: absolute;
+}
+.relative {
+    position: relative;
+}
+
+.flex {
+    display: flex;
+}
+.flex-col {
+    flex-direction: column;
+}
+.flex-1 {
+    flex: 1;
+}
+
+/* Spaces */
+.m-4 {
+    margin: 1rem;
+}
+.my-2 {
+    margin: 0.5rem 0;
+}
+
+/* Alignments */
+.items-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
