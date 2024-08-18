@@ -1,0 +1,15 @@
+/* Sizes */
+.h-screen {
+    height: 100vh;
+}
+.w-screen {
+    width: 100vw;
+}
+
+/* Text sizes */
+.font-xs {
+    font-size: 0.875rem;
+}
+.font-m {
+    font-size: 1rem;
+}

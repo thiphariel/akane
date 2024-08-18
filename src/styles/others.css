@@ -1,0 +1,11 @@
+/* Others */
+.overflow-hidden {
+    overflow: hidden;
+}
+.overflow-y {
+    overflow-y: scroll;
+}
+
+.z-1 {
+    z-index: 1;
+}
